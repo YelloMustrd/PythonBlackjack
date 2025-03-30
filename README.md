@@ -1,2 +1,2 @@
 # PythonBlackjack
-python blackjack
+# It's blackjack... made in Python
